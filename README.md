@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merhaba, Ben Buket 👋
+### Yönetim Bilişim Sistemleri Öğrencisi | Veri Analisti Adayı
 
-<!--
-**buketbaytar/buketbaytar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Hakkımda
+- Akdeniz Üniversitesi'nde Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim.
+- İş süreçleri, karar destek sistemleri ve veriyi anlamlı içgörülere dönüştürme konularına ilgi duyuyorum.
+- Veri Analizi, İş Analizi ve Süreç Geliştirme rollerinde kariyer yapmayı hedefliyorum.
 
-Here are some ideas to get you started:
+## 🛠 Beceriler ve Araçlar
+- **Veri ve Analiz:** Python, Pandas, Numpy, MS SQL, Excel, Power BI
+- **Web:** HTML, CSS
+- **Yetkinlikler:** Analitik Düşünme, Süreç Modelleme, Takım Çalışması
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 İletişim
+- **LinkedIn:** [Buket Baytar](https://www.linkedin.com/in/buketbaytar)
+- **E-posta:** [buketbaytar@icloud.com](mailto:buketbaytar@icloud.com)
+- **GitHub:** [@buketbaytar](https://github.com/buketbaytar)
